@@ -29,3 +29,6 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
+
+## Running migrations
+`heroku local release`
